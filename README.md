@@ -1,2 +1,9 @@
 # hello-world
-Just starting 
+
+Hello there!
+
+C# ASP.Net SqlServer
+
+
+
+
